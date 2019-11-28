@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   读书。思考。活着。
   循环。
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "www.lynnhu.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lynn__hu
 # github_username:  jekyll
 
@@ -52,3 +52,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Build settings
+livereload: true
