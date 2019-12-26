@@ -1,29 +1,25 @@
 ---
 layout: post
-title:  "Test post"
-date:   2019-11-25 20:20:37 -0800
-categories: jekyll update
+title:  "兩種對長城的詮釋"
+date:   2019-12-25 20:20:37 -0800
+categories: 读书 中文 English
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+平日習慣同時閱讀幾本書，雖未刻意挑選，但經常感受到完全不同世界之間的聯繫。
 
-Jekyll requires blog post files to be named according to the following format:
+這次同時看的書，一本是巫寧坤的「一滴淚」，另一本是 Marina Abramović 的 *Walk Through Walls*。
 
-`YEAR-MONTH-DAY-title.MARKUP`
+巫寧坤是 1920 年生人，專業是英美文學，1951 受到「新中國」邀請回國去燕京大學教書，結果飽受二十年政治運動的折磨，險些喪命。今年在美國過世。
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Marina 是 1946 年生人，被稱為「行為藝術之祖母」。國人比較熟悉的作品大約是 The Lovers。1988 年她與烏雷從長城兩端出發，步行三個月之後在中間會合後分手。
 
-Jekyll also offers powerful support for code snippets:
+巫寧坤剛回國不久就被批為「反革命」，被審問，要求寫檢討。隨即一九五六年政治風向轉變，政府鼓勵知識份子「百花齊放」，甚至開鳴放會讓大家勇於批評，結果僅僅五個星期以後就被毛澤東再次定性為「資產階級右派」。結果巫寧坤又因為鳴放運動中的言論被認定為「右派分子」了。在這種情形下，他在十一參加教職員假日遊覽長城的活動，寫下這段：
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+> 終於面對長城了，我實在看不出這座巨大可怕的灰磚建築物如何值得人們讚歎。我感到十分難過，當我緬懷歷朝歷代無數的好男兒拋妻別子，在鞭子和刀槍的驅趕下，來修築這個吞噬青春和生命的龐然怪物。怡楷和我離開人群，單獨登上長城。到了盯上，怡楷問我：「你喜歡這個世界第七奇蹟嗎？」我說：「這真是個『奇蹟』！這是那個焚書坑儒的『千古一帝』用無數奴隸的白骨修建的專制暴政紀念碑。其實又何止他一個！一代接一代的昏君效法他，實行暴政，奴役人民，又擴建這座壁壘，妄圖鞏固專制王朝。奧維爾真該把它放進《一九八四》的，在山海觀的門樓上寫下但丁寫在地獄門口的名言：『放棄一切希望吧，你們進入這裡的人們！』」
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Early 1980s, when Marina and Ulay first conceptualized the performance of walking on the Great Wall, she wrote:
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+> At first, like almost everybody else, we’d thought that the Chinese had built the Great Wall to protect themselves from Genghis Khan and the Mongol tribes. But as we did more reading, we found that this wasn’t true. What we discovered was that the Wall had been designed in the form of a gigantic dragon, as a mirror image of the Milky Way. The ancient Chinese had started the Wall by sinking twenty-five ships at the edge of the Yellow Sea in order to create the foundation for the dragon’s head. Then, after the dragon rose from the sea, its body twisted across the landscape and through the mountains, corresponding exactly to the shape of the Milky Way, until it reached the Gobi Desert, where the tail was buried.
+> Now we made a formal proposal, once again to the Museum Fodor curators who'd helped us get the government funding for *Nightsea Crossing Conjunction*.
+> We wrote:
+> That edifice which best expresses the notion of the Earth as a living being is the Great Wall of China. In the case of the Great Wall it is a mythical dragon who lives under this long fortress like structure….The dragon’s color is green, and the dragon represents the unification of two natural elements, earth and air. Though it lives underground, it symbolizes the vital energy on the surface of the earth. The Great Wall marks the dragon’s movement through the earth, and so embodies the same “vital energy.” In modern scientific terms the Wall lies on what are called geodetic force lines, or ley lines. It is a direct link to the forces of the earth.
+> Our plan was for me to start the walk at the Wall’s eastern, female end, the Gulf of Bohai on the Yellow Sea, and for Ulay to start at the Wall’s western, male end, the Jiayu Pass in the Gobi Desert. After walking a total of 2,500 kilometers each, we would meet in the middle.
